@@ -1,4 +1,4 @@
-# Excel_Kickstart_My_Chart
+# Excel: Kickstart My Chart
 
 #### Goal:
 
