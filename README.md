@@ -11,4 +11,4 @@ Used conditional formatting to color-code project states and percentage of proje
 
 Used formulas to calculate the average donation amount of each project, convert Unix timestamps, and split cells into new columns by specified delimiter.
 
-Created pivot tables and pivot charts to analyze the relationship between success rates and parent-category, sub-category, and launch dates.
+Created pivot tables and pivot charts to analyze the relationship between success rates and parent-category, sub-category, launch dates, and goal amount.
