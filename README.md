@@ -19,7 +19,6 @@ Used different formulas to:
 * Convert Unix timestamps in `deadline` and `launched_at` columns to normal dates in `Date_Created_Conversion` and `Date_Ended` columns.
 
 ![](https://github.com/lorijta92/excel-kickstarter-data/blob/master/Images/img_06.png?raw=true)
-
 * Count (`COUNTIFS()`), sum, and calculate percentages of campaign states (successful, failed, cancelled) based on goal range. Create a line chart based on the table.
 ![](https://github.com/lorijta92/excel-kickstarter-data/blob/master/Images/img_05.png?raw=true)
 
